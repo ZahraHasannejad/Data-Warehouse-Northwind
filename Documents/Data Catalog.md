@@ -1,13 +1,13 @@
 
 # Warehouse Field Guide — Sales ETL & Data Warehouse
 
-**Document Owner:** Zahra Hasannejad
+**Document Owner:** Data Warehouse Project Team
 **Document Focus:** Business and technical metadata
 **Platform:** Microsoft SQL Server  
 **Language:** T-SQL  
 **Architecture:** Staging → Dimension → Fact  
 **Document Type:** Markdown (`.md`)  
-**Revision Date:** 2026-10-10
+**Revision Date:** 2026-08-10
 
 ---
 
